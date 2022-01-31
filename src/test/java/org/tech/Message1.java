@@ -7,7 +7,11 @@ public class Message1 {
 		
 		System.out.println("Congrats");
 		System.out.println("Congratulations");
+
+		System.out.println("Good Morining");
+
 		System.out.println("Congrats");
+
 
 	}
 
